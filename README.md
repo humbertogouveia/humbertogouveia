@@ -24,7 +24,7 @@ Como especialista em Cypress, possuo um profundo conhecimento dessa ferramenta d
 
 Em automação de testes mobile, tenho experiência em ferramentas como Appium, WebdriverIO e CodeceptJS em testes tanto iOS(Iphone) quanto em Android. Em Device Farm uso a plataforma BrowserStack, garantindo a compatibilidade, testes em paralelo, visando a qualidade dos aplicativos em diferentes dispositivos e navegadores.
 
-  - ⚡ Gosto de jogar futebol, tocar violão e guitarra, sair com a esposa, família e amigos. Em dias de chuva, tomar um café quente e jogar X-box. \o/
+⚡ Gosto de jogar futebol, tocar violão e guitarra, sair com a esposa, família e amigos. Em dias de chuva, tomar um café quente e jogar X-box. \o/
 </details>
 
 <!-- Links -->
