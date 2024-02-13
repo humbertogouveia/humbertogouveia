@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Resultado dos testes: Aprovado!</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -44,24 +44,26 @@ Em construção
 </p>
 
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
+<!-- Skills: Programação e automação de testes -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Front-end</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 <!-- Skills: Tools & Frameworks -->
 <div style="flex-basis: 48%;">
-  <h3>Tools & Frameworks</h3>
-  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://asset.brandfetch.io/idkbmH8ed6/idZyvr5luF.jpeg">
+  <h3>Web Automation</h3>
   <img align="center" alt="Cypress" height="30" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
   <img align="center" alt="Webdriver.io" height="30" width="40" src="https://asset.brandfetch.io/idV7ZoyErg/idPvWqIX1T.png">
-    <img align="center" alt="CodeceptJS" height="30" width="40" src="https://asset.brandfetch.io/idMe6pMu24/idmUJgqZsr.png">
-  <img align="center" alt="Browserstack" height="30" width="40" src="https://asset.brandfetch.io/idgkW_o1rq/id_f4yKLv-.svg">
-    <img align="center" alt="Jenkins.io" height="30" width="40" src="https://asset.brandfetch.io/idugaSQYRO/idRzDMld0D.svg">
-      <img align="center" alt="Selenium" height="30" width="40" src="https://asset.brandfetch.io/id3uyOwT-S/id8cNSXCgF.svg">
+  <img align="center" alt="Selenium" height="30" width="40" src="https://asset.brandfetch.io/id3uyOwT-S/idgLpsQVbx.jpeg">
+
+
+  <h3>Mobile Automation</h3>
+
+  <img align="center" alt="CodeceptJS" height="30" width="40" src="https://asset.brandfetch.io/idMe6pMu24/idmUJgqZsr.png">
+  <img align="center" alt="Browserstack" height="30" width="60" src="https://asset.brandfetch.io/idgkW_o1rq/idFgV5So2m.svg">
+  <img align="center" alt="Appium" height="30" width="40" src="https://asset.brandfetch.io/idPkBuZoKM/id2L3ItCMy.png">
 
 
 </div>
