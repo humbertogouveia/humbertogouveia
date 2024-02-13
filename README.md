@@ -14,7 +14,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 Tenho 34 anos e sou Graduado em Tecnologia em Sistemas para Internet na Universidade Uninove, apaixonado pela área de qualidade de software.
+Tenho 34 anos e sou Graduado em Tecnologia em Sistemas para Internet na Universidade Uninove, apaixonado pela área de qualidade de software.
 
 Com expertise em automação de testes, foco em Agile Testing e implementação de boas práticas. Estou sempre em busca de aprimorar a qualidade e a eficiência dos processos de desenvolvimento.
 
