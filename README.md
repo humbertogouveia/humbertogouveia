@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Sou Humberto Gouveia, moro na capital de São Paulo e atualmente trabalho como Coordenador de Qualidade de Software. 
+  Sou Humberto Gouveia, moro na capital de São Paulo e atualmente trabalho como Coordenador de Qualidade de Software. 
 </p>
 
 <!-- Dropdown -->
