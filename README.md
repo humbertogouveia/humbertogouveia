@@ -20,9 +20,11 @@ Com expertise em automação de testes, foco em Agile Testing e implementação 
 
 Ao longo da minha carreira, atuei em diversas áreas, incluindo meios de pagamento, e-commerce, ERP e plataforma de ensino digital. Essa experiência me proporcionou um amplo conhecimento sobre os desafios e requisitos específicos desses setores, permitindo-me desenvolver estratégias de teste eficazes e adaptadas a cada contexto.
 
-Como especialista em Cypress, possuo um profundo conhecimento dessa ferramenta de automação de testes E2E e de API. Utilizo o padrão de projeto Page Object, Cucumber e boas práticas do Clean Code.
+Como especialista em Cypress, possuo um profundo conhecimento dessa ferramenta de automação de testes E2E,componentes e API. 
+Utilizo padrões de projeto como Page Object, APP Actions, desenvolvimento com BDD com implementação de Cucumber e boas práticas de Clean Code.
+Além disso, tenho experiência utilizando frameworks como Robot Framework, Selenium Webdriver, playwright e outras ferramentas de acordo com o projeto.
 
-Em automação de testes mobile, tenho experiência em ferramentas como Appium, WebdriverIO e CodeceptJS em testes tanto iOS(Iphone) quanto em Android. Em Device Farm uso a plataforma BrowserStack, garantindo a compatibilidade, testes em paralelo, visando a qualidade dos aplicativos em diferentes dispositivos e navegadores.
+Em automação de testes mobile, tenho experiência em ferramentas com o helper Appium utilizando WebdriverIO, CodeceptJS e Robot Framework em testes tanto iOS(Iphone) quanto em Android. Em Device Farm uso a plataforma BrowserStack, garantindo a compatibilidade, testes em paralelo, visando a qualidade dos aplicativos em diferentes dispositivos e navegadores.
 
 ⚡ Gosto de jogar futebol, tocar violão e guitarra, sair com a esposa, família e amigos. Em dias de chuva, tomar um café quente e jogar X-box. \o/
 </details>
@@ -34,9 +36,13 @@ Em automação de testes mobile, tenho experiência em ferramentas como Appium, 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertogouveia&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
-## Portfolio:
+## Alguns projetos técnicos realizados:
 
-Em construção
+- Design Pattern em automação de Testes E2E: https://github.com/humbertogouveia/design-pattern-automation
+- CI Pipeline UI Automation Cypress e Jenkins: https://github.com/humbertogouveia/ebac-cypress-ui
+- CI Pipeline API Test Automation e Jenkins: https://github.com/humbertogouveia/automation-api-cypress
+- Desevolvimento de Calculadora com Javascript, HTML5 e CSS - https://github.com/humbertogouveia/calculadora
+- Automação Mobile Android/iOS + Jenkins + Browserstack Device Farm - https://github.com/humbertogouveia/woocommerce-device-farm 
 
 <!-- GIF -->
 <p align="left">
