@@ -1,78 +1,96 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Resultado dos testes: Aprovado!</h1></summary>
-</div>
+# 👋 Olá, eu sou o Humberto Gouveia
 
-<!-- Presentation -->
-<p>
-  Sou Humberto Gouveia, moro na capital de São Paulo e atualmente trabalho como Coordenador de Qualidade de Software. 
-</p>
+**Analista Sênior / Especialista em Qualidade de Software**
+Automação de Testes • QA Estratégico • Cultura de Qualidade
 
-<!-- Dropdown -->
+📍 São Paulo - SP • 💼 +7 anos em QA • 🚀 Automação, API e Performance
 
-<details>
-  <summary>👨‍💻 More about me</summary>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/humberto-gouveia/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/humbertogouveia)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge\&logo=microsoft-outlook\&logoColor=white)](mailto:humbertogouveia@outlook.com)
 
-Tenho 34 anos e sou Graduado em Tecnologia em Sistemas para Internet na Universidade Uninove, apaixonado pela área de qualidade de software.
+---
 
-Com expertise em automação de testes, foco em Agile Testing e implementação de boas práticas. Estou sempre em busca de aprimorar a qualidade e a eficiência dos processos de desenvolvimento.
+## 🧪 Sobre mim
 
-Ao longo da minha carreira, atuei em diversas áreas, incluindo meios de pagamento, e-commerce, ERP e plataforma de ensino digital. Essa experiência me proporcionou um amplo conhecimento sobre os desafios e requisitos específicos desses setores, permitindo-me desenvolver estratégias de teste eficazes e adaptadas a cada contexto.
+Sou **Analista Sênior / Especialista em Qualidade de Software**, com **mais de 7 anos de experiência** em sistemas de grande escala, especialmente **LMS (Learning Management Systems)**, atuando em **Web, Mobile e APIs**.
 
-Como especialista em Cypress, possuo um profundo conhecimento dessa ferramenta de automação de testes E2E,componentes e API. 
-Utilizo padrões de projeto como Page Object, APP Actions, desenvolvimento com BDD com implementação de Cucumber e boas práticas de Clean Code.
-Além disso, tenho experiência utilizando frameworks como Robot Framework, Selenium Webdriver, playwright e outras ferramentas de acordo com o projeto.
+Tenho forte foco em **automação de testes**, **qualidade estratégica** e **confiabilidade de produto**, atuando desde o **refinamento** até a **entrega em produção**, aplicando práticas como **Shift Left**, **Agile Testing** e **INVEST**.
 
-Em automação de testes mobile, tenho experiência em ferramentas com o helper Appium utilizando WebdriverIO, CodeceptJS e Robot Framework em testes tanto iOS(Iphone) quanto em Android. Em Device Farm uso a plataforma BrowserStack, garantindo a compatibilidade, testes em paralelo, visando a qualidade dos aplicativos em diferentes dispositivos e navegadores.
+---
 
-⚡ Gosto de jogar futebol, tocar violão e guitarra, sair com a esposa, família e amigos. Em dias de chuva, tomar um café quente e jogar X-box. \o/
-</details>
+## 🧠 Especialidades
 
-<!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-gouveia/)
+* Automação de testes **E2E, API, Componentes e Mobile**
+* Testes de **performance e confiabilidade** (k6, JMeter)
+* Estratégia de testes, métricas e rastreabilidade
+* Cultura de qualidade e **mentoria de QAs**
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=humbertogouveia&show_icons=true&theme=gotham)
+---
 
-<!-- Portfolio -->
-## Alguns projetos técnicos realizados:
+## ⚙️ Stack & Ferramentas
 
-- Design Pattern em automação de Testes E2E: https://github.com/humbertogouveia/design-pattern-automation
-- CI Pipeline UI Automation Cypress e Jenkins: https://github.com/humbertogouveia/ebac-cypress-ui
-- CI Pipeline API Test Automation e Jenkins: https://github.com/humbertogouveia/automation-api-cypress
-- Desevolvimento de Calculadora com Javascript, HTML5 e CSS - https://github.com/humbertogouveia/calculadora
-- Automação Mobile Android/iOS + Jenkins + Browserstack Device Farm - https://github.com/humbertogouveia/woocommerce-device-farm 
+### 🧩 Automação & Testes
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*bcWk2I3EL1EWiz0hC7f_LA.gif" alt="Imagem">
-</p>
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square\&logo=playwright\&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square\&logo=cypress\&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square\&logo=robotframework\&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-EE376D?style=flat-square\&logo=appium\&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat-square\&logo=webdriverio\&logoColor=white)
 
-## 🔥 Skills
-<!-- Skills: Programação e automação de testes -->
-  <div style="flex-basis: 48%;">
-    <h3>Front-end</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-<!-- Skills: Tools & Frameworks -->
-<div style="flex-basis: 48%;">
-  <h3>Web Automation</h3>
-  <img align="center" alt="Cypress" height="30" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
-  <img align="center" alt="Webdriver.io" height="30" width="40" src="https://asset.brandfetch.io/idV7ZoyErg/idPvWqIX1T.png">
-  <img align="center" alt="Selenium" height="30" width="40" src="https://asset.brandfetch.io/id3uyOwT-S/idgLpsQVbx.jpeg">
+### 🔗 API
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square\&logo=swagger\&logoColor=111111)
+JWT • REST
+
+### 📊 Performance
+
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square\&logo=k6\&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square\&logo=apachejmeter\&logoColor=white)
+
+### 🔄 CI/CD & DevOps
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square\&logo=azuredevops\&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square\&logo=bitbucket\&logoColor=white)
+
+### 💻 Linguagens
+
+JavaScript • TypeScript • Python
+
+### 📋 Gestão & Observabilidade
+
+Jira • Zephyr • Xray • Confluence
+Sentry • New Relic • Firebase • Mixpanel
+
+---
+
+## 🧾 Certificações
+
+* ✅ ISTQB CTFL
+* ✅ ISTQB CTFL-AT (Agile Tester)
+* ✅ AICS Software Testing Fundamentals
+* ✅ AICS Scrum Fundamentals
+
+---
+
+## 📌 Projetos em Destaque
+
+* 🔹 **Design Patterns em Automação E2E**
+  [https://github.com/humbertogouveia/design-pattern-automation](https://github.com/humbertogouveia/design-pattern-automation)
+
+* 🔹 **CI Pipeline UI Automation – Cypress + Jenkins**
+  [https://github.com/humbertogouveia/ebac-cypress-ui](https://github.com/humbertogouveia/ebac-cypress-ui)
+
+* 🔹 **Automação de Testes de API – Cypress**
+  [https://github.com/humbertogouveia/automation-api-cypress](https://github.com/humbertogouveia/automation-api-cypress)
+
+* 🔹 **Automação Mobile + Device Farm (BrowserStack)**
+  [https://github.com/humbertogouveia/woocommerce-device-farm](https://github.com/humbertogouveia/woocommerce-device-farm)
 
 
-  <h3>Mobile Automation</h3>
+## 🌐 Vamos conversar?
 
-  <img align="center" alt="CodeceptJS" height="30" width="40" src="https://asset.brandfetch.io/idMe6pMu24/idmUJgqZsr.png">
-  <img align="center" alt="Browserstack" height="30" width="60" src="https://asset.brandfetch.io/idgkW_o1rq/idFgV5So2m.svg">
-  <img align="center" alt="Appium" height="30" width="40" src="https://asset.brandfetch.io/idPkBuZoKM/id2L3ItCMy.png">
-
-
-</div>
-
-  
-  </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/humberto-gouveia/)
