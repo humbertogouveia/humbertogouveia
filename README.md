@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Humberto Gouveia
 
 **Analista Sênior em Automação de Testes | QA Sênior**
+
 Automação de Testes • Qualidade Estratégica • Testes assistidos por IA
 
 📍 São Paulo - SP • 💼 +9 anos em QA • 🚀 Automação Web, Mobile, API e Performance
@@ -94,17 +95,21 @@ Sentry • New Relic • Firebase • Mixpanel
 
 ## 📌 Projetos em Destaque
 
-* 🔹 **Design Patterns em Automação E2E**
-  [github.com/humbertogouveia/design-pattern-automation](https://github.com/humbertogouveia/design-pattern-automation)
+* 🔹 **API + Jira: reporte automático de defeitos (Playwright + TypeScript)**
+  PoC de estudo: falhas em testes de API abrem ou atualizam bugs no Jira, com deduplicação e GitHub Actions.
+  [github.com/humbertogouveia/automated-api-defect-reporter](https://github.com/humbertogouveia/automated-api-defect-reporter)
+
+* 🔹 **E2E com Playwright + TypeScript (Page Object)**
+  [github.com/humbertogouveia/playwright_jornada_milhas](https://github.com/humbertogouveia/playwright_jornada_milhas)
 
 * 🔹 **CI Pipeline UI Automation — Cypress + Jenkins**
   [github.com/humbertogouveia/ebac-cypress-ui](https://github.com/humbertogouveia/ebac-cypress-ui)
 
-* 🔹 **Automação de Testes de API — Cypress**
+* 🔹 **Automação de Testes de API — Cypress (contrato com Joi)**
   [github.com/humbertogouveia/automation-api-cypress](https://github.com/humbertogouveia/automation-api-cypress)
 
-* 🔹 **Automação Mobile + Device Farm (BrowserStack)**
-  [github.com/humbertogouveia/woocommerce-device-farm](https://github.com/humbertogouveia/woocommerce-device-farm)
+* 🔹 **Design Patterns em Automação E2E**
+  [github.com/humbertogouveia/design-pattern-automation](https://github.com/humbertogouveia/design-pattern-automation)
 
 ---
 
