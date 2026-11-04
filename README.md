@@ -1,30 +1,52 @@
 # 👋 Olá, eu sou o Humberto Gouveia
 
-**Analista Sênior / Especialista em Qualidade de Software**
-Automação de Testes • QA Estratégico • Cultura de Qualidade
+**Analista Sênior em Automação de Testes | QA Sênior**
+Automação de Testes • Qualidade Estratégica • Testes assistidos por IA
 
-📍 São Paulo - SP • 💼 +7 anos em QA • 🚀 Automação, API e Performance
+📍 São Paulo - SP • 💼 +9 anos em QA • 🚀 Automação Web, Mobile, API e Performance
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/humberto-gouveia/)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/humbertogouveia)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge\&logo=microsoft-outlook\&logoColor=white)](mailto:humbertogouveia@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-gouveia/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/humbertogouveia)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humbertogouveia.qa@gmail.com)
+
+---
+
+## 🎓 Formação & Certificações
+
+* 🎓 Tecnologia em Sistemas para Internet — Uninove (graduado em 2021)
+* ✅ ISTQB Foundation Level (CTFL) — 04/2025
+* ✅ ISTQB Foundation Agile Tester (CTFL-AT) — 10/2025
+* ✅ AICS Software Testing Fundamentals (ASTFC) — 03/2025
+* ✅ AICS Accredited Scrum Fundamentals — 03/2025
+* 📚 ISTQB CTAL Test Automation Engineer (CTAL-TAE) — em andamento, previsão 11/2026
 
 ---
 
 ## 🧪 Sobre mim
 
-Sou **Analista Sênior / Especialista em Qualidade de Software**, com **mais de 7 anos de experiência** em sistemas de grande escala, especialmente **LMS (Learning Management Systems)**, atuando em **Web, Mobile e APIs**.
+QA Sênior com **mais de 9 anos** em Qualidade de Software, com trajetória consolidada em **automação de testes** para **Web, Mobile e APIs**, além de **performance**, **CI/CD** e **testes assistidos por IA generativa (Claude Code)**.
 
-Tenho forte foco em **automação de testes**, **qualidade estratégica** e **confiabilidade de produto**, atuando desde o **refinamento** até a **entrega em produção**, aplicando práticas como **Shift Left**, **Agile Testing** e **INVEST**.
+Atuo desde o **refinamento** até a **entrega em produção**, com **Shift Left**, **BDD** e histórias **INVEST**. Hoje estou ampliando minha atuação para **Java, Selenium WebDriver, TestNG/JUnit e Cucumber**.
+
+---
+
+## 💼 Experiência
+
+* **QA Sênior — Hapvida** (02/2026 – atual): primeira automação mobile com WebdriverIO + Appium + TypeScript (cobertura de 0% para 50%), automação Web com Playwright + Cucumber + Allure no GitHub Actions e gestão de testes no Azure DevOps.
+* **Analista Sr. de Qualidade — Mazzatech / Colégio Bernoulli** (09/2025 – 12/2025): E2E com Playwright (-60% de esforço manual em regressão) e testes de carga com k6 que sustentaram mais de 100 mil acessos no simulador Enem e na Calculadora SISU.
+* **Analista Sr. de Qualidade — Movida** (05/2025 – 09/2025): Cypress, Robot Framework e Appium (iOS e Android) em 2 squads, com execução no BrowserStack.
+* **Coordenador de Qualidade — Arcotech** (06/2023 – 01/2025): liderança de QA nos produtos Geekie, -70% de bugs críticos em produção, cobertura automatizada de 0% para 60%, mentoria de 5 QAs e performance com JMeter.
+* **Líder / Engenheiro de Qualidade — Before Tecnologia** (01/2021 – 05/2023): estratégia de automação em ERP para TIM e VIVO, com Cypress e Page Objects (smoke tests de 0 para 100% de cobertura).
 
 ---
 
 ## 🧠 Especialidades
 
-* Automação de testes **E2E, API, Componentes e Mobile**
-* Testes de **performance e confiabilidade** (k6, JMeter)
-* Estratégia de testes, métricas e rastreabilidade
-* Cultura de qualidade e **mentoria de QAs**
+* Automação de testes **E2E, API e Mobile**
+* Testes de **performance** (k6, JMeter)
+* **CI/CD** e execução em Device Farms
+* Estratégia de testes, análise de risco, métricas e rastreabilidade
+* **IA generativa aplicada a QA** e mentoria de times
 
 ---
 
@@ -32,65 +54,60 @@ Tenho forte foco em **automação de testes**, **qualidade estratégica** e **co
 
 ### 🧩 Automação & Testes
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square\&logo=playwright\&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square\&logo=cypress\&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square\&logo=robotframework\&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-EE376D?style=flat-square\&logo=appium\&logoColor=white)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat-square\&logo=webdriverio\&logoColor=white)
-
-### 🔗 API
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square\&logo=swagger\&logoColor=111111)
-JWT • REST
-
-### 📊 Performance
-
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square\&logo=k6\&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square\&logo=apachejmeter\&logoColor=white)
-
-### 🔄 CI/CD & DevOps
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square\&logo=azuredevops\&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square\&logo=bitbucket\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-EE376D?style=flat-square&logo=appium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 
 ### 💻 Linguagens
 
-JavaScript • TypeScript • Python
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
 
-### 📋 Gestão & Observabilidade
+📚 Em estudo: Java • Selenium WebDriver • TestNG/JUnit
 
-Jira • Zephyr • Xray • Confluence
+### 🔗 API
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=111111)
+
+REST • Testes de integração
+
+### 📊 Performance
+
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+
+### 🚀 CI/CD & Device Farms
+
+Azure DevOps • GitHub Actions • GitLab CI • Bitbucket Pipelines • Jenkins
+BrowserStack • Sauce Labs
+
+### 🗂️ Gestão & Observabilidade
+
+Jira • Zephyr • Confluence • Azure DevOps Test Plans
 Sentry • New Relic • Firebase • Mixpanel
-
----
-
-## 🧾 Certificações
-
-* ✅ ISTQB CTFL
-* ✅ ISTQB CTFL-AT (Agile Tester)
-* ✅ AICS Software Testing Fundamentals
-* ✅ AICS Scrum Fundamentals
 
 ---
 
 ## 📌 Projetos em Destaque
 
 * 🔹 **Design Patterns em Automação E2E**
-  [https://github.com/humbertogouveia/design-pattern-automation](https://github.com/humbertogouveia/design-pattern-automation)
+  [github.com/humbertogouveia/design-pattern-automation](https://github.com/humbertogouveia/design-pattern-automation)
 
-* 🔹 **CI Pipeline UI Automation – Cypress + Jenkins**
-  [https://github.com/humbertogouveia/ebac-cypress-ui](https://github.com/humbertogouveia/ebac-cypress-ui)
+* 🔹 **CI Pipeline UI Automation — Cypress + Jenkins**
+  [github.com/humbertogouveia/ebac-cypress-ui](https://github.com/humbertogouveia/ebac-cypress-ui)
 
-* 🔹 **Automação de Testes de API – Cypress**
-  [https://github.com/humbertogouveia/automation-api-cypress](https://github.com/humbertogouveia/automation-api-cypress)
+* 🔹 **Automação de Testes de API — Cypress**
+  [github.com/humbertogouveia/automation-api-cypress](https://github.com/humbertogouveia/automation-api-cypress)
 
 * 🔹 **Automação Mobile + Device Farm (BrowserStack)**
-  [https://github.com/humbertogouveia/woocommerce-device-farm](https://github.com/humbertogouveia/woocommerce-device-farm)
+  [github.com/humbertogouveia/woocommerce-device-farm](https://github.com/humbertogouveia/woocommerce-device-farm)
 
+---
 
 ## 🌐 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/humberto-gouveia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-gouveia/)
